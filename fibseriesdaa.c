@@ -1,4 +1,4 @@
-#include<stdio.h> 
+ #include<stdio.h>
 int Fibonacci(int);
  
 int main()
